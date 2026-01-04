@@ -1,4 +1,3 @@
-# minia-analysis
 # 🧬 Minia Genome Assembly Analysis
 
 > **Bioinformatica** > *Assemblaggio di genomi tramite De Bruijn Graph: studio del sequenziamento, Bloom Filter e analisi dell'assemblatore Minia*
