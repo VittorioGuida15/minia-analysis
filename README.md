@@ -1,7 +1,7 @@
 # minia-analysis
 # 🧬 Minia Genome Assembly Analysis
 
-> **Tesi di Laurea Magistrale in Informatica** > *Assemblaggio di genomi tramite De Bruijn Graph: studio del sequenziamento, Bloom Filter e analisi dell'assemblatore Minia*
+> **Bioinformatica** > *Assemblaggio di genomi tramite De Bruijn Graph: studio del sequenziamento, Bloom Filter e analisi dell'assemblatore Minia*
 
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![Language](https://img.shields.io/badge/Language-C%2B%2B%20%2F%20GATB-blue)
