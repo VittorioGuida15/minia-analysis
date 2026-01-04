@@ -58,7 +58,7 @@ Il confronto con il genoma di riferimento ha evidenziato un'alta fedeltà di ric
 
 ## 📂 Struttura della Repository
 ```text
-├── docs/               # Documentazione e Report completo (PDF)
+├── docs/               # Documentazione e Presentazione 
 ├── results/            # Report di output (QUAST, metriche Galaxy)
 ├── images/             # Screenshot (Icarus, Galaxy workflow)
 └── README.md           # Questo file
